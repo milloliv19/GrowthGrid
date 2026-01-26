@@ -1,0 +1,4 @@
+person1_id,person1_name,person1_email,person2_id,person2_name,person2_email,match_type
+1,Alice Johnson,alice.johnson@example.com,6,Fiona Apple,fiona.apple@example.com,pair
+2,Bob Smith,bob.smith@example.com,5,Edward Norton,edward.norton@example.com,pair
+3,Charlie Brown,charlie.brown@example.com,4,Diana Prince,diana.prince@example.com,pair

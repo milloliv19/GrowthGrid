@@ -1,0 +1,11 @@
+person1_id,person1_name,person1_email,person2_id,person2_name,person2_email,match_type
+1,Alice Johnson,alice.johnson@example.com,20,Tina Fey,tina.fey@example.com,pair
+10,Jane Doe,jane.doe@example.com,11,Kevin Spacey,kevin.spacey@example.com,pair
+12,Lisa Simpson,lisa.simpson@example.com,9,Ian Fleming,ian.fleming@example.com,pair
+13,Mike Tyson,mike.tyson@example.com,8,Hannah Montana,hannah.montana@example.com,pair
+14,Nancy Drew,nancy.drew@example.com,7,George Washington,george.washington@example.com,pair
+15,Oliver Twist,oliver.twist@example.com,6,Fiona Apple,fiona.apple@example.com,pair
+16,Patricia Highsmith,patricia.highsmith@example.com,5,Edward Norton,edward.norton@example.com,pair
+17,Quinn Fabray,quinn.fabray@example.com,4,Diana Prince,diana.prince@example.com,pair
+18,Rachel Green,rachel.green@example.com,3,Charlie Brown,charlie.brown@example.com,pair
+19,Steve Jobs,steve.jobs@example.com,2,Bob Smith,bob.smith@example.com,pair

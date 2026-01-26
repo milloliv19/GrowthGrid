@@ -1,0 +1,4 @@
+person1_id,person1_name,person1_email,person2_id,person2_name,person2_email,match_type
+1,Alice Johnson,alice.johnson@example.com,3,Charlie Brown,charlie.brown@example.com,triad
+1,Alice Johnson,alice.johnson@example.com,2,Bob Smith,bob.smith@example.com,triad
+3,Charlie Brown,charlie.brown@example.com,2,Bob Smith,bob.smith@example.com,triad

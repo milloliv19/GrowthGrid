@@ -1,0 +1,6 @@
+person1_id,person1_name,person1_email,person2_id,person2_name,person2_email,match_type
+184596fe,Maria Santos,maria.santos@example.com,950fdd53,Ian McDonald,ian.mcdonald@example.com,pair
+34cc8907,Kevin O'Connor,kevin.oconnor@example.com,3f2a7c90,Ophelia Vance,ophelia.vance@example.com,pair
+4599da22,George Kalis,george.kalis@example.com,a5318441,Julia Chen,julia.chen@example.com,pair
+4a13f329,Liam Patel,liam.patel@example.com,70877357,Hannah Davis,hannah.davis@example.com,pair
+54318d7c,Nathan Williams,nathan.williams@example.com,a797d46a,Fiona Yeung,fiona.yeung@example.com,pair
